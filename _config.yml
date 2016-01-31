@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://carlbiz.github.io
+title: BizAutomation
+tagline: All In One Business Management Solution!
+description: My awesome new site
+paginate: 5
